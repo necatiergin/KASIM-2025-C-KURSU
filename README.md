@@ -2,14 +2,14 @@
 📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __240__ saattir.<br><br>
-⌛ Kursun son 20 saati C++ programlama diline giriş niteliğindedir.<br><br>
+⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><br>
 ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır. 
 Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
 ✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
 ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br><br>
-✅ Programın toplam ücreti **42.000 TL**'dir. Peşin ödemede **38.000** TL'dir. 
-Öğrenci olanlar için kurs ücreti **38.000 TL**'dir. Peşin ödemede **34.000** TL'dir.<br> 
+✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000** TL'dir. 
+Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000** TL'dir.<br> 
 **Kurs ücreti 5 taksit olarak ödenebilir**.<br>
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/kurs_egitmeni.md)
@@ -26,7 +26,6 @@
 <br>
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/c_kurs_gorseli.png)
-
 
 
 ![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/c_kurs_gorseli.png)
