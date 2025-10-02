@@ -2,7 +2,7 @@
 📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
-**&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br>
+**&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br><br>
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 ⌛ Kursun toplam süresi __240__ saattir.<br><br>
 ⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><br>
