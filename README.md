@@ -6,11 +6,15 @@
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 ⌛ Kursun toplam süresi __240__ saattir.<br><br>
 ⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><br>
-ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır. 
-Öğrenciler ders sırasında eğitmene soru sorabilirler.<br>
+
+ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır.<br> 
+Öğrenciler ders sırasında eğitmene soru sorabildikleri gibi sorularını kursun Telegram grubu üzerinden de eğitmene iletebilirler.<br>
 Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
+
 ✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
+
 ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br><br>
+
 ✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000** TL'dir. 
 Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000** TL'dir.<br> 
 **Kurs ücreti 5 taksit olarak ödenebilir**.<br>
