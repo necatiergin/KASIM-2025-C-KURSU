@@ -20,6 +20,4 @@
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/NMkRcoZoQ5St97N7w0bPuQ) <br>
 
-<!---
-![kurs tanıtım görseli](https://github.com/necatiergin/AGUSTOS_2025_C_KURSU/blob/main/c_kurs_gorseli.png)
---->
+![kurs tanıtım görseli](https://github.com/necatiergin/KASIM-2025-C-KURSU/blob/main/c_kursu_tanitim_gorseli.png)
