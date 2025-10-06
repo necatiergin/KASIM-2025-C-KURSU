@@ -13,7 +13,7 @@ Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağla
 ➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.<br>
 
 💻 Dersler canlı ve online olarak Zoom platformu üzerinden yürütülür.<br>
-Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
+⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
 ⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, kurs sistemimiz üzerinden izlenebilir.
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
@@ -22,10 +22,10 @@ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca ku
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
 💰 Ücretlendirme<br>
-💳 Genel katılım ücreti: 45.000 TL<br>
-💸 Peşin ödeme indirimi: 40.000 TL<br>
-🎓 Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>
-💠 Ücret 5 taksite bölünebilir.<br>
+💳 Genel katılım ücreti: **45.000 TL**<br>
+💸 Peşin ödeme indirimi: **40.000 TL**<br>
+🎓 **Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>**
+💠 **Ücret 5 taksite bölünebilir.<br>**
 
 🏢 Bu eğitim, Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.<br>
 
