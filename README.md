@@ -5,7 +5,7 @@ Eğitim süreci sadece dilin sözdizimine odaklanmakla sınırlı değildir.<br>
 Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanırlar.
 🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlar.<br>
 
-🧩 Kursa Dair Bilgiler
+**🧩 Kursa Dair Bilgiler**
 
 📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi<br>
 🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)<br>
@@ -27,7 +27,7 @@ Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağla
 🎓 **Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>**
 💠 **Ücret 5 taksite bölünebilir.<br>**
 
-🏢 Bu eğitim, Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.<br>
+🏢 Bu eğitim,** Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.<br>
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
