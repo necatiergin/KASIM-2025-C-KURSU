@@ -1,8 +1,8 @@
 ✅ Bu kurs, katılımcılara yalnızca C programlama dilini öğretmekle kalmaz; aynı zamanda bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan sağlam bir teknik altyapıyı kazandırmayı hedefler.
-C dilinin standart kütüphanesi tüm ayrıntılarıyla işlenirken, eğitim süreci yalnızca dile odaklanmakla sınırlı değildir.
-Veri yapıları, algoritmalar, kod kalitesi ve birim testleri gibi yazılım geliştirme pratiğinin temel taşları da kapsamlı biçimde ele alınır.
+Eğitim süreci yalnızca dile odaklanmakla sınırlı değildir. <br>
+C dilinin standart kütüphanesi tüm ayrıntılarıyla işlenirken, veri yapıları, algoritmalar, kod kalitesi ve birim testleri gibi yazılım geliştirme pratiğinin temel taşları da kapsamlı biçimde ele alınır.
 Katılımcılar, yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkelerini de öğrenirler.
-Eğitim süresince yazılacak yüzlerce C programı, teorik bilgilerin pratiğe dönüştürülmesini sağlar.
+Eğitim süresince yazılacak yüzlerce C kodu, teorik bilgilerin pratiğe dönüştürülmesini sağlar.
 
 ✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br>
 
