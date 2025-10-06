@@ -27,7 +27,7 @@ Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağla
 🎓 **Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>**
 💠 **Ücret 5 taksite bölünebilir.<br>**
 
-🏢 Bu eğitim,** Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.<br>
+🏢 Bu eğitim, **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.<br>
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
