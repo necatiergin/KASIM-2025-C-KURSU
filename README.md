@@ -1,3 +1,9 @@
+✅ Bu kurs, katılımcılara yalnızca C programlama dilini öğretmekle kalmaz; aynı zamanda bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan sağlam bir teknik altyapıyı kazandırmayı hedefler.
+C dilinin standart kütüphanesi tüm ayrıntılarıyla işlenirken, eğitim süreci yalnızca dile odaklanmakla sınırlı değildir.
+Veri yapıları, algoritmalar, kod kalitesi ve birim testleri gibi yazılım geliştirme pratiğinin temel taşları da kapsamlı biçimde ele alınır.
+Katılımcılar, yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkelerini de öğrenirler.
+Eğitim süresince yazılacak yüzlerce C programı, teorik bilgilerin pratiğe dönüştürülmesini sağlar.
+
 ✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br>
 
 📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br>
@@ -6,7 +12,7 @@
 
 ⌛ Kursun toplam süresi __240__ saattir.<br>
 
-⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><
+⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br>
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br>
@@ -16,10 +22,6 @@
 💻 Dersler online ve canlı olarak **Zoom** platformu üzerinden yürütülmektedir. <br>
 Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel _Telegram_ grubu üzerinden de sorularını iletebilirler. <br>
 Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.
-
-✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br>
-
-ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br>
 
 💰 Ücretlendirme:<br>
 Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
