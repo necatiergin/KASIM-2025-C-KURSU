@@ -1,7 +1,7 @@
-🎯 Bu kurs, yalnızca C programlama dilini öğretmekle kalmaz; aynı zamanda katılımcıların bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan sağlam bir teknik altyapıyı da kazandırmayı hedefler.
+🎯 Bu kurs, yalnızca C programlama dilini öğretmekle kalmaz; aynı zamanda katılımcıların bu dili profesyonel düzeyde kullanabilmeleri için gerekli olan sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir.
 Eğitim süreci sadece dilin sözdizimine odaklanmakla sınırlı değildir.<br>
 📌 C dilinin standart kütüphanesi tüm detaylarıyla ele alınırken;<br>
-📌 Veri yapıları, algoritmalar, kod kalitesi, birim testleri gibi yazılım mühendisliğinin temel taşları da kapsamlı biçimde işlenir.<br>
+📌 Veri yapıları, algoritmalar, kod kalitesi, birim testleri gibi yazılım mühendisliğinin temel taşları da kapsamlı biçimde işlenmektedir.<br>
 Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanırlar.
 🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlar.<br>
 
