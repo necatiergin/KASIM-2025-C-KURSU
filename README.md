@@ -7,13 +7,13 @@ Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağla
 
 🧩 Kursa Dair Bilgiler
 
-📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi
-🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)
-⏳ Toplam Süre: 240 saat
-➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.
+📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi<br>
+🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)<br>
+⏳ Toplam Süre: 240 saat<br>
+➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.<br>
 
-💻 Dersler canlı ve online olarak Zoom platformu üzerinden yürütülür.
-Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.
+💻 Dersler canlı ve online olarak Zoom platformu üzerinden yürütülür.<br>
+Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
 ⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, kurs sistemimiz üzerinden izlenebilir.
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
@@ -21,13 +21,13 @@ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca ku
 
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
-💰 Ücretlendirme
-💳 Genel katılım ücreti: 45.000 TL
-💸 Peşin ödeme indirimi: 40.000 TL
-🎓 Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL
-💠 Ücret 5 taksite bölünebilir.
+💰 Ücretlendirme<br>
+💳 Genel katılım ücreti: 45.000 TL<br>
+💸 Peşin ödeme indirimi: 40.000 TL<br>
+🎓 Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>
+💠 Ücret 5 taksite bölünebilir.<br>
 
-🏢 Bu eğitim, Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.
+🏢 Bu eğitim, Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.<br>
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
