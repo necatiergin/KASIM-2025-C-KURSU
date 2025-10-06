@@ -5,29 +5,29 @@ Eğitim süreci sadece dilin sözdizimine odaklanmakla sınırlı değildir.
 Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanırlar.
 🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlar.
 
-✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br>
+🧩 Kursa Dair Bilgiler
 
-📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br>
+📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi
+🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)
+⏳ Toplam Süre: 240 saat
+➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.
 
-⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br>
-
-⌛ Kursun toplam süresi __240__ saattir.<br>
-
-⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br>
+💻 Dersler canlı ve online olarak Zoom platformu üzerinden yürütülür.
+Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.
+⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, kurs sistemimiz üzerinden izlenebilir.
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
 **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br>
 
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
-💻 Dersler online ve canlı olarak **Zoom** platformu üzerinden yürütülmektedir. <br>
-Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel _Telegram_ grubu üzerinden de sorularını iletebilirler. <br>
-Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.
+💰 Ücretlendirme
+💳 Genel katılım ücreti: 45.000 TL
+💸 Peşin ödeme indirimi: 40.000 TL
+🎓 Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL
+💠 Ücret 5 taksite bölünebilir.
 
-💰 Ücretlendirme:<br>
-Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
-Öğrenci indirimi: **40.000 TL → Peşin ödemede 35.000 TL**<br>
-Ücret 5 taksite bölünebilir.
+🏢 Bu eğitim, Plepa Eğitim Hizmetleri tarafından düzenlenmektedir.
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
