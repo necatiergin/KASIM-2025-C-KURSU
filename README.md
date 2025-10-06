@@ -1,20 +1,30 @@
-✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br><br>
-📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br><br>
-⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br><br>
-⌛ Kursun toplam süresi __240__ saattir.<br><br>
-⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><br>
+✅ Bu kurs [Plepa Eğitim Hizmetleri](https://plepa.com/) tarafından düzenlenmektedir.<br>
+
+📅 Kurs __22 Kasım 2025 Cumartesi__ günü başlayacaktır.<br>
+
+⏰ Dersler __Cumartesi ve Pazar__ günleri __15.00 - 19.00__ saatleri arasında **(haftada 8 saat)** yapılacaktır.<br>
+
+⌛ Kursun toplam süresi __240__ saattir.<br>
+
+⌛ **Kursun son 20 saati C++ programlama diline giriş niteliğindedir.**<br><
 
 👨 [Kurs eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)
-**&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br><br>
+**&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir. <br>
+
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
-ℹ️ Dersler Zoom platformu üzerinden gerçek zamanlı ve online olarak yapılmaktadır.<br> 
-Öğrenciler ders sırasında eğitmene soru sorabildikleri gibi sorularını kursun Telegram grubu üzerinden de eğitmene iletebilirler.<br>
-Öğrenciler katılmadıkları ya da tekrar etmek istedikleri dersleri kurs sistemimiz üzerinden de izleyebilirler.<br><br>
-✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br><br>
-ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br><br>
-✅ Programın toplam ücreti **45.000 TL**'dir. Peşin ödemede **40.000** TL'dir. 
-Öğrenci olanlar için kurs ücreti **40.000 TL**'dir. Peşin ödemede **35.000** TL'dir.<br> 
-**Kurs ücreti 5 taksit olarak ödenebilir**.<br>
+
+💻 Dersler online ve canlı olarak **Zoom** platformu üzerinden yürütülmektedir. <br>
+Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel _Telegram_ grubu üzerinden de sorularını iletebilirler. <br>
+Kaçırılan veya tekrar izlenmek istenen ders kayıtları, kurs sistemimiz üzerinden öğrencilere sunulmaktadır.
+
+✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.<br>
+
+ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.<br>
+
+💰 Ücretlendirme:<br>
+Genel katılım ücreti: **45.000 TL → Peşin ödemede 40.000 TL**<br>
+Öğrenci indirimi: **40.000 TL → Peşin ödemede 35.000 TL**<br>
+Ücret 5 taksite bölünebilir.
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/c_programlama_dili.md)<br>
