@@ -2,17 +2,17 @@
 sağlam bir teknik altyapıyı da kazandırmayı hedeflemektedir. Eğitim süreci yalnızca dilin sözdizimine odaklanmakla sınırlı değildir.<br>
 📌 C dilinin standart kütüphanesi tüm detaylarıyla ele alınmaktadır;<br>
 📌 Veri yapıları, algoritmalar, kod kalitesi, birim testleri gibi yazılım mühendisliğinin temel taşları da kapsamlı biçimde işlenmektedir.<br>
-Katılımcılar yalnızca C dilinde yetkinleşmekle kalmaz; aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanırlar. <br>
-🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlar.<br>
+Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, okunabilir ve sürdürülebilir yazılım geliştirme ilkeleriyle donanmaları hedeflenmektedir. <br>
+🧠 Kurs boyunca yazılacak yüzlerce C kodu, tüm bu bilgilerin uygulamaya dönüştürülmesini sağlayacaktır.<br>
 
-**🧩 Kursa Dair Bilgiler**
+**🧩 Kursa İlişkin Bilgiler**
 
 📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi<br>
 🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)<br>
 ⏳ Toplam Süre: 240 saat<br>
 ➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.<br>
 
-💻 Dersler canlı ve online olarak Zoom platformu üzerinden yürütülür.<br>
+💻 Dersler canlı ve online olarak Zoom platformu üzerinden yapılmaktadır.<br>
 ⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
 ⏺️ Kaçırılan veya tekrar izlenmek istenen dersler, kurs sistemimiz üzerinden izlenebilir.
 
