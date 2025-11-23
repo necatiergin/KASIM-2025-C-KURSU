@@ -7,9 +7,9 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 
 **🧩 Kursa İlişkin Bilgiler**
 
-📅 Başlangıç Tarihi: 22 Kasım 2025, Cumartesi<br>
+📅 Başlangıç Tarihi: 3 Ocak 2026 , Cumartesi<br>
 🕒 Ders Günleri ve Saatleri: Cumartesi & Pazar, saat 15:00 – 19:00 (Haftada 8 saat)<br>
-⏳ Toplam Süre: 240 saat<br>
+⏳ Toplam Süre: 220 saat<br>
 ➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.<br>
 
 💻 Dersler canlı ve online olarak Zoom platformu üzerinden yapılmaktadır.<br>
