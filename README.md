@@ -9,7 +9,7 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 
 📅 Başlangıç Tarihi: **7 Mart 2026 Cumartesi**<br>
 🕒 **Ders Günleri ve Saatleri: Cumartesi ve Pazar günleri, saat 09:00 – 13:00 (Haftada 8 saat)<br>**
-⏳ Toplam Süre: 180 saat<br>
+⏳ **Toplam Süre: 180 saat<br>**
 
 💻 Dersler canlı ve online olarak Zoom platformu üzerinden yapılmaktadır.<br>
 ⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
