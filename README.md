@@ -7,10 +7,9 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 
 **🧩 Kursa İlişkin Bilgiler**
 
-📅 Başlangıç Tarihi: **3 Ocak 2026 Cumartesi**<br>
-🕒 **Ders Günleri ve Saatleri: Cumartesi ve Pazar günleri, saat 15:00 – 19:00 (Haftada 8 saat)<br>**
-⏳ Toplam Süre: 220 saat<br>
-➕ Son 20 saat, C++ programlama diline giriş niteliğindedir.<br>
+📅 Başlangıç Tarihi: **7 Mart 2026 Cumartesi**<br>
+🕒 **Ders Günleri ve Saatleri: Cumartesi ve Pazar günleri, saat 09:00 – 13:00 (Haftada 8 saat)<br>**
+⏳ Toplam Süre: 180 saat<br>
 
 💻 Dersler canlı ve online olarak Zoom platformu üzerinden yapılmaktadır.<br>
 ⏺️ Katılımcılar, ders sırasında eğitmene doğrudan soru sorabilir; ayrıca kursun özel Telegram grubu üzerinden de iletişim kurabilirler.<br>
@@ -22,10 +21,10 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
 #### 💰 Ücretlendirme<br>
-💳 Genel katılım ücreti: **45.000 TL**<br>
-💸 Peşin ödeme indirimi: **40.000 TL**<br>
-🎓 **Öğrenci indirimi: 40.000 TL → Peşin ödemede 35.000 TL<br>**
-💠 **Ücret 5 taksite bölünebilir.<br>**
+💳 Genel katılım ücreti: **35.000.000 TL**<br>
+💸 Peşin ödeme indirimi: **30.000 TL**<br>
+🎓 **Öğrenci indirimi: 30.000 TL → Peşin ödemede 25.000 TL<br>**
+💠 **Ücret 2 taksite bölünebilir.<br>**
 
 🏢 Bu eğitim, **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.<br>
 
