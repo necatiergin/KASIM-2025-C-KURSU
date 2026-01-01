@@ -21,7 +21,7 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
 #### 💰 Ücretlendirme<br>
-💳 Genel katılım ücreti: **35.000TL**<br>
+💳 **Genel katılım ücreti**: **35.000TL**<br>
 💸 **Peşin ödemede**   : **30.000 TL**<br>
 🎓 **Öğrenci ücreti    : 30.000 TL<br>
 💸 Peşin ödemede       : 25.000 TL<br>**
