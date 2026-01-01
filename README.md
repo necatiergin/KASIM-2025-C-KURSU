@@ -22,8 +22,9 @@ Katılımcıların hem C dilinde yetkinleşmesi hem de aynı zamanda sağlam, ok
 
 #### 💰 Ücretlendirme<br>
 💳 Genel katılım ücreti: **35.000TL**<br>
-💸 Peşin ödeme indirimi: **30.000 TL**<br>
-🎓 **Öğrenci indirimi: 30.000 TL → Peşin ödemede 25.000 TL<br>**
+💸 **Peşin ödemede**   : **30.000 TL**<br>
+🎓 **Öğrenci ücreti    : 30.000 TL<br>
+💸 Peşin ödemede       : 25.000 TL<br>**
 💠 **Ücret 2 taksite bölünebilir.<br>**
 
 🏢 Bu eğitim, **Plepa Eğitim Hizmetleri** tarafından düzenlenmektedir.<br>
